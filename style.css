@@ -1,6 +1,7 @@
 .container{
     margin-bottom:70px;
 }
+
 .caro-bg{
     background-color: #fceae8;
     border-radius: 10px;
@@ -42,11 +43,22 @@
 .card-footer{
     border-color:#FF136F;
 }
+#subscribe{
+    height: 300px;
 
+}
+#subscribe>div>input{
+    margin-bottom:10px;
+}
+footer{
+    text-align: center;
+    padding: 20px 0px;
+    background-color: rgb(98, 98, 98);
+    color: white;
+}
 /* .catagories>.row>.col-md-4:first-child {
     padding-left: 0;
 }
 .catagories>.row>.col-md-4:last-child {
     padding-right: 0;
 } */
- 
